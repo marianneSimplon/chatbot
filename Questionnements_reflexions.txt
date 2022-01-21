@@ -1,0 +1,2 @@
+stop word :  si aucun mot aidant
+si mot clé avec d'autres mots clé ou si 1 seul mot clé (machine learning)

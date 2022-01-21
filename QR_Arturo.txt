@@ -1,0 +1,5 @@
+Question Arturo : 
+RNN : input non train qu'on va mettre en test
+Tuto kaggle : train-test classique (shuffle = True) + test lemmatize + test hyperparametre dans gridsearch n_gram (parametres du countvectiorizer / tf-idf)
+
+Mettre une double couche LSTM ou une couche BiLSTM
